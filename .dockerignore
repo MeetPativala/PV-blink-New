@@ -1,0 +1,8 @@
+# Send only the files required to build this application.
+**
+!Dockerfile
+!requirements.txt
+!pv_blink_dashboard.py
+!PV_Blink_Login_Form.py
+!assets/
+!assets/pvblink_logo.png

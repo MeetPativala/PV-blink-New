@@ -1,0 +1,9 @@
+# Direct dependencies match the project's current Python 3.11 environment.
+streamlit==1.63.0
+pandas==3.0.5
+numpy==2.4.6
+plotly==7.0.0
+openpyxl==3.1.5
+requests==2.34.2
+# Reader for legacy .xls files accepted by the upload controls.
+xlrd==2.0.2
